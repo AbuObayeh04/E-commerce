@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "product 1",
+    "current_price:": 100,
+    "discount": 10,
+    "old_price": 110,
+    "image": "product1.jpg",
+    "quantity": 10
+  }
+]
